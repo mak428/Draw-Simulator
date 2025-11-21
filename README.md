@@ -1,0 +1,1 @@
+This is a simulator that allows users to simulate the 2026 World Cup Draw with the 48 teams that have qualified and/or are projected to qualify for the tournment. Users can either watch the draw unfold in front of them or skip straight to the results.
